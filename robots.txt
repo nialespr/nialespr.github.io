@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nialespr.github.io/sitemap.html.gz
+Sitemap: https://nialespr.github.io/app/sitemap.html.gz
+Sitemap: https://nialespr.github.io/assets/sitemap.html.gz
+Sitemap: https://nialespr.github.io/css/sitemap.html.gz
+Sitemap: https://nialespr.github.io/data/sitemap.html.gz
+Sitemap: https://nialespr.github.io/includes/sitemap.html.gz
+Sitemap: https://nialespr.github.io/item/sitemap.html.gz
+Sitemap: https://nialespr.github.io/src/sitemap.html.gz
